@@ -1,1 +1,1 @@
-(https://github.com/csyntax/Algo)[See Also this]
+[See Also this](https://github.com/csyntax/Algo)
