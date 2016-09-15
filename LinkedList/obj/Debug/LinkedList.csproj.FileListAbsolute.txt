@@ -1,0 +1,9 @@
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\bin\Debug\LinkedList.exe.config
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\bin\Debug\LinkedList.exe
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\bin\Debug\LinkedList.pdb
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\obj\Debug\LinkedList.exe
+c:\users\csyntax\documents\visual studio 2015\Projects\CSharp-Data-Structures-and-Algorithms\LinkedList\obj\Debug\LinkedList.pdb
+C:\Users\csyntax\Desktop\CSharp-Data-Structures-and-Algorithms\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\csyntax\Desktop\CSharp-Data-Structures-and-Algorithms\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\csyntax\Desktop\CSharp-Data-Structures-and-Algorithms\LinkedList\obj\Debug\LinkedList.pdb
